@@ -19,7 +19,7 @@
                             </select>
                         </div>
                         <div class="ht__pro__qun">
-                            <span>Showing 1-12 of 1033 products</span>
+                            <span>Show Bedding type </span>
                         </div>
                     </div>
                         <!-- Start Product View -->
